@@ -1,1 +1,1 @@
-# Senior-Honours-Project
+# SeniorHonoursProject
