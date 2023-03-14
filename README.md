@@ -1,10 +1,10 @@
 # Principal Component Analysis (PCA) as a Foreground Removal Technique for HI Intensity Mapping
 
 This repository contains code written and adapted by Gracie McGill for the senior honours project titled above. 
-This project aims to investigate the use of PCA as a foreground removal technique for cosmological HI insensity mapping. In order to do this code was written to apply PCA to data to remove a specified number of `prinicpal components'. The functions to do this are contained in the script: `PCA.py'. This repository also contains notebooks which apply this cleaning to the data and analyse the resulting maps.  <br/>
+This project aims to investigate the use of PCA as a foreground removal technique for cosmological HI insensity mapping. In order to do this code was written to apply PCA to data to remove a specified number of 'prinicpal components'. The functions to do this are contained in the script: 'PCA.py'. This repository also contains notebooks which apply this cleaning to the data and analyse the resulting maps.  <br/>
 
 ## Notebooks 
-These notebooks contain the analysis done for this project. The notebook `EXPLORING_THE_SIMULATED_DATA' loads in the simulated data from https://github.com/IntensityTools/MultipoleExpansion (see acknowledgements) and explores the properties of the different componets of this data. The other three notebooks apply PCA foreground cleaning to the simulated data (and the smoothed simulated data) and the MeerKAT data (see acknowledgements).
+These notebooks contain the analysis done for this project. The notebook 'EXPLORING_THE_SIMULATED_DATA' loads in the simulated data from https://github.com/IntensityTools/MultipoleExpansion (see acknowledgements) and explores the properties of the different componets of this data. The other three notebooks apply PCA foreground cleaning to the simulated data (and the smoothed simulated data) and the MeerKAT data (see acknowledgements).
 
 ## Acknowledgements
 ##### Code to produce the power spectrum is from: https://github.com/paulassoares/gpr4im : <br/>
