@@ -1,4 +1,4 @@
-# Principal Component Analysis (PCA) as a Foreground Removal Technique for HI Intensity Mapping
+# Foreground Cleaning of HI Intensity Maps with Principal Component Analysis (PCA) 
 
 This repository contains code written and adapted by Gracie McGill for the senior honours project titled above. 
 This project aims to investigate the use of PCA as a foreground removal technique for cosmological HI insensity mapping. In order to do this code was written to apply PCA to data to remove a specified number of 'prinicpal components'. The functions to do this are contained in the script: 'PCA.py'. This repository also contains notebooks which apply this cleaning to the data and analyse the resulting maps.  <br/>
